@@ -10,7 +10,7 @@
       "source_sha256": "2213F8430CAE43F6327726CB7A1EFB23F7E60A6596198F9F5623B3BA2A0F5161",
       "source_binding_basis": "Exact current integration contract source metadata; raw source bytes not read",
       "runtime": {
-        "url": "/assets/art-3x3-r01/enemy-presser.png",
+        "url": "./assets/art-3x3-r01/enemy-presser.png",
         "sha256": "1712613D5D54DC9856534F1BAB97D269B92163C7EB99FA668D02C09C8DEB2F4E",
         "size_bytes": 14733,
         "width": 128,
@@ -31,7 +31,7 @@
       "source_sha256": "42E74EBC76F5922B24BD85A42CA065844B421F480644E8759E06B0C44C557C6C",
       "source_binding_basis": "Exact current integration contract source metadata; raw source bytes not read",
       "runtime": {
-        "url": "/assets/art-3x3-r01/enemy-interceptor.png",
+        "url": "./assets/art-3x3-r01/enemy-interceptor.png",
         "sha256": "18FFF476D31001BE7AF83AF8CA02891498280D44128E7C0CF8DD6D4322146878",
         "size_bytes": 8617,
         "width": 128,
@@ -52,7 +52,7 @@
       "source_sha256": "1C4D51114D470017E2A0465DBBC60E5C1912D37658C8FEACBA4D7BB31F5DD0B1",
       "source_binding_basis": "Exact current integration contract source metadata; raw source bytes not read",
       "runtime": {
-        "url": "/assets/art-3x3-r01/enemy-charger.png",
+        "url": "./assets/art-3x3-r01/enemy-charger.png",
         "sha256": "13F43CB3988368543979A468C8686BBCDEC811D52B974DCE257D8B8581D38448",
         "size_bytes": 13355,
         "width": 128,
@@ -73,7 +73,7 @@
       "source_sha256": "87798CF4D98036087CF5370607BACB3A209130CBA34659F9C00537D73EE93422",
       "source_binding_basis": "Exact current integration contract source metadata; raw source bytes not read",
       "runtime": {
-        "url": "/assets/art-3x3-r01/weapon-heavy-impact.png",
+        "url": "./assets/art-3x3-r01/weapon-heavy-impact.png",
         "sha256": "2008B185D01F39CB20BD4AFB166F34FDD0D562E568EE4B02593D748A27A1423D",
         "size_bytes": 11491,
         "width": 128,
@@ -95,7 +95,7 @@
       "source_sha256": "428BEDB4B770BD33392DCCCC654E5F7CB9481E3F13D9FE3D23CE8F89D2563713",
       "source_binding_basis": "Exact current integration contract source metadata; raw source bytes not read",
       "runtime": {
-        "url": "/assets/art-3x3-r01/weapon-aimed-projectile.png",
+        "url": "./assets/art-3x3-r01/weapon-aimed-projectile.png",
         "sha256": "E276A0EC082693128267508195E5E0F6C385246FA41987489768C38A9DD9F2EC",
         "size_bytes": 6409,
         "width": 128,
@@ -117,7 +117,7 @@
       "source_sha256": "D7545F31F5067041B7C7C28D439E001BF5D3DE9D062B1BF7693A5B9C50D33403",
       "source_binding_basis": "Exact current integration contract source metadata; raw source bytes not read",
       "runtime": {
-        "url": "/assets/art-3x3-r01/weapon-spell-carrier.png",
+        "url": "./assets/art-3x3-r01/weapon-spell-carrier.png",
         "sha256": "BE7586050A2E64CE70287ECB0FA89CF9ECAAC31D009C93CE11FCC8AE3F661471",
         "size_bytes": 7391,
         "width": 128,
