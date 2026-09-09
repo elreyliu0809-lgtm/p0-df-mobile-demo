@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "candidate_id": "art-3x3-r01",
+  "status": "NO_RUNTIME_ASSETS_ADOPTED",
+  "entries": [
+    {
+      "role": "PRESSER",
+      "label": "追压",
+      "availability": "PENDING_ADOPTION_NORMALIZATION_COLOR",
+      "source_sha256": "2213F8430CAE43F6327726CB7A1EFB23F7E60A6596198F9F5623B3BA2A0F5161",
+      "source_binding_basis": "Quoted from byte-bound ART delivery, source image not opened/rehashed",
+      "runtime": null
+    },
+    {
+      "role": "INTERCEPTOR",
+      "label": "截击",
+      "availability": "SOURCE_REJECTED",
+      "source_sha256": "27643CF4E540B1E555D3B7A969F1294F470A0CCAF4B8FD94508C12485657B92A",
+      "source_binding_basis": "Quoted from byte-bound ART delivery, source image not opened/rehashed",
+      "runtime": null
+    },
+    {
+      "role": "CHARGER",
+      "label": "冲锋",
+      "availability": "SOURCE_MISSING",
+      "source_sha256": null,
+      "source_binding_basis": "Quoted from byte-bound ART delivery, source image not opened/rehashed",
+      "runtime": null
+    },
+    {
+      "role": "HEAVY_IMPACT",
+      "label": "重击",
+      "availability": "PENDING_ADOPTION_NORMALIZATION_COLOR",
+      "source_sha256": "87798CF4D98036087CF5370607BACB3A209130CBA34659F9C00537D73EE93422",
+      "source_binding_basis": "Quoted from byte-bound ART delivery, source image not opened/rehashed",
+      "runtime": null
+    },
+    {
+      "role": "AIMED_PROJECTILE",
+      "label": "定向弹",
+      "availability": "PENDING_ADOPTION_NORMALIZATION_COLOR",
+      "source_sha256": "428BEDB4B770BD33392DCCCC654E5F7CB9481E3F13D9FE3D23CE8F89D2563713",
+      "source_binding_basis": "Quoted from byte-bound ART delivery, source image not opened/rehashed",
+      "runtime": null
+    },
+    {
+      "role": "SPELL_CARRIER",
+      "label": "驻地法术",
+      "availability": "PENDING_ADOPTION_NORMALIZATION_COLOR",
+      "source_sha256": "D7545F31F5067041B7C7C28D439E001BF5D3DE9D062B1BF7693A5B9C50D33403",
+      "source_binding_basis": "Quoted from byte-bound ART delivery, source image not opened/rehashed",
+      "runtime": null
+    }
+  ]
+}
