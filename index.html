@@ -4,12 +4,24 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>恶魔锻造炉</title>
-    <script type="module" crossorigin src="./assets/index-Bvuli-i1.js"></script>
+    <style>
+      html,body { margin:0; background:#0b0d12; color:#ffcf81; }
+      #boot-notice { position:fixed; inset:0; z-index:100; display:grid; place-content:center; gap:16px; text-align:center; background:#0b0d12; font:16px sans-serif; }
+      #boot-notice[hidden] { display:none; }
+      #boot-notice button { padding:12px; font:inherit; cursor:pointer; }
+    </style>
+    <script type="module" crossorigin src="./assets/index-Bcs0_hnp.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-CP-Qu5Fx.css">
   </head>
   <body>
     <main id="app-shell" aria-label="恶魔锻造炉">
       <div id="game-root"></div>
+      <section id="boot-notice" role="status" aria-live="polite">
+        <strong>恶魔锻造炉</strong>
+        <span>正在下载启动程序，首次打开可能稍慢…</span>
+        <button type="button" onclick="location.reload()">重新加载</button>
+      </section>
+      <noscript>请启用 JavaScript 后重新打开游戏。</noscript>
     </main>
   </body>
 </html>
