@@ -1,0 +1,1276 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "DF_R07_R8_TWO_CARD_TRIAL_BUILD_MANIFEST",
+  "plan_id": "P0-DF-V030-TWO-CARD-TRIAL-R07-R8-20260924",
+  "export": {
+    "path": "F:\\svn\\cehua\\AI_coding\\projects\\P0-DF_demon_forge\\02_design\\configuration\\v0.3.0\\DF-V030-PARAMETER-V17-20260923-R03\\export\\parameter-info-export.json",
+    "sha256": "0C98C3FA608FD4223E71A64128CF31B2FA88A3A3D3D8E8D6F685B3F9C9B7DF3D",
+    "size_bytes": 24459,
+    "canonical_sha256": "666630523A830248237DF617889E175AD90F4929B069C79CB59E5821741B0CEA"
+  },
+  "runtime_export": {
+    "canonical_sha256": "666630523A830248237DF617889E175AD90F4929B069C79CB59E5821741B0CEA",
+    "canonical_size_bytes": 16745,
+    "source_export_path": "F:\\svn\\cehua\\AI_coding\\projects\\P0-DF_demon_forge\\02_design\\configuration\\v0.3.0\\DF-V030-PARAMETER-V17-20260923-R03\\export\\parameter-info-export.json",
+    "source_export_sha256": "0C98C3FA608FD4223E71A64128CF31B2FA88A3A3D3D8E8D6F685B3F9C9B7DF3D",
+    "source_export_size_bytes": 24459,
+    "stripped_top_level_keys": []
+  },
+  "definitions": {
+    "path": "F:\\svn\\cehua\\AI_coding\\projects\\P0-DF_demon_forge\\02_design\\design-preparation\\DF-V030-TWO-CARD-DEFINITION-REGISTRY-V17-20260923-R03\\output\\weapon-definitions.json",
+    "sha256": "F62146B6563BF26723EF1C3E02A3DE3AC99640D8E1F116DAC5696D0A9EB4858B",
+    "size_bytes": 48464
+  },
+  "source": {
+    "root": "F:\\svn\\cehua\\AI_coding\\projects\\P0-DF_demon_forge\\03_demo",
+    "aggregate_sha256": "44C2E27C46D3CF6BE55B17C22E744956D42BDAE526EC388483526A63FA4FFCE0",
+    "entries": [
+      {
+        "path": "apps/web/.b1-preview/site/ASSETS.json",
+        "sha256": "BE67FAC0E25FF43740460BB0B4F2EC3357DC32ACB96B87D25D47BF0EE9E7312F",
+        "size_bytes": 5140
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/a2-trial-r2/enemy.png",
+        "sha256": "F42581A03BAD6097E0D0296C5B8CF553755B2FCB3E84864C52A6B0845138F7FB",
+        "size_bytes": 8490
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/a2-trial-r2/player.png",
+        "sha256": "70177A3E554AB53DB32E3FC468C7D9CB4BCEB0A049DB9977FAB6E406089DAF7D",
+        "size_bytes": 10318
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/a2-trial/enemy.png",
+        "sha256": "A27B995FD49A7AC46572E46CB2C607943BCCB4044DD5B2AAAB2553076272F1AC",
+        "size_bytes": 10556
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/a2-trial/ground.png",
+        "sha256": "834D6FF6EBD978E6564345C63A294743BB4AF6AC517559EAF577C956E63DA9CF",
+        "size_bytes": 1568952
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/a2-trial/hit.png",
+        "sha256": "567C19D710F8630D63BC7C9CA7946473A60A4AA653C4ACDE5CE03D1FA8134814",
+        "size_bytes": 4492
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/a2-trial/player.png",
+        "sha256": "B2A68F9024241C02D5942D50445A8131AF99BDD089F78E763FC235A55D7AC566",
+        "size_bytes": 14621
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/a2-trial/weapon-reference.png",
+        "sha256": "1D92FA8099E3202FC14E4D0BA0B28195CADAB7868387256BBCC6DBA477104FE8",
+        "size_bytes": 10935
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/art-3x3-r01/enemy-charger.png",
+        "sha256": "13F43CB3988368543979A468C8686BBCDEC811D52B974DCE257D8B8581D38448",
+        "size_bytes": 13355
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/art-3x3-r01/enemy-interceptor.png",
+        "sha256": "18FFF476D31001BE7AF83AF8CA02891498280D44128E7C0CF8DD6D4322146878",
+        "size_bytes": 8617
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/art-3x3-r01/enemy-presser.png",
+        "sha256": "1712613D5D54DC9856534F1BAB97D269B92163C7EB99FA668D02C09C8DEB2F4E",
+        "size_bytes": 14733
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/art-3x3-r01/weapon-aimed-projectile.png",
+        "sha256": "E276A0EC082693128267508195E5E0F6C385246FA41987489768C38A9DD9F2EC",
+        "size_bytes": 6409
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/art-3x3-r01/weapon-heavy-impact.png",
+        "sha256": "2008B185D01F39CB20BD4AFB166F34FDD0D562E568EE4B02593D748A27A1423D",
+        "size_bytes": 11491
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/art-3x3-r01/weapon-spell-carrier.png",
+        "sha256": "BE7586050A2E64CE70287ECB0FA89CF9ECAAC31D009C93CE11FCC8AE3F661471",
+        "size_bytes": 7391
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/index-CP-Qu5Fx.css",
+        "sha256": "D329706CF05D0818330E993B5882E22A18512F8FA443F00EE09C0566E4E468DF",
+        "size_bytes": 6035
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/index-Dp5RVfeu.js",
+        "sha256": "ACD2CA53D39559CA5E7FCD8C50886BCFC78C5695D02C95080CF463925B94CBBE",
+        "size_bytes": 1423552
+      },
+      {
+        "path": "apps/web/.b1-preview/site/assets/player-primary-weapon-attachment/v01/ASSETS.json",
+        "sha256": "C8EF937070C01DEAD8A6B319B80E8C1C67C1BAAB233089BED90165377DEE27F0",
+        "size_bytes": 211
+      },
+      {
+        "path": "apps/web/.b1-preview/site/index.html",
+        "sha256": "B9E7C2A9A448C42A9E8E996BE238EDFA165B5B0E9F7C0A69B1506A98C9DEF16C",
+        "size_bytes": 1229
+      },
+      {
+        "path": "apps/web/b5-testability.html",
+        "sha256": "86E42BE7065850692CBEA13298364D0EE97F041D4BCE57847AEC216DFA463CAB",
+        "size_bytes": 355
+      },
+      {
+        "path": "apps/web/index.html",
+        "sha256": "FCB47775308610D1BA9B76AAEDE05FCB4B8E4527B3793860F2083BF63E3AB431",
+        "size_bytes": 1128
+      },
+      {
+        "path": "apps/web/package.json",
+        "sha256": "1F733BB45AB1EDFF676E2CBBFFF783278550238698B678A4C54A8541558D6AEA",
+        "size_bytes": 94
+      },
+      {
+        "path": "apps/web/public/ASSETS.json",
+        "sha256": "BE67FAC0E25FF43740460BB0B4F2EC3357DC32ACB96B87D25D47BF0EE9E7312F",
+        "size_bytes": 5140
+      },
+      {
+        "path": "apps/web/public/assets/a2-trial-r2/enemy.png",
+        "sha256": "F42581A03BAD6097E0D0296C5B8CF553755B2FCB3E84864C52A6B0845138F7FB",
+        "size_bytes": 8490
+      },
+      {
+        "path": "apps/web/public/assets/a2-trial-r2/player.png",
+        "sha256": "70177A3E554AB53DB32E3FC468C7D9CB4BCEB0A049DB9977FAB6E406089DAF7D",
+        "size_bytes": 10318
+      },
+      {
+        "path": "apps/web/public/assets/a2-trial/enemy.png",
+        "sha256": "A27B995FD49A7AC46572E46CB2C607943BCCB4044DD5B2AAAB2553076272F1AC",
+        "size_bytes": 10556
+      },
+      {
+        "path": "apps/web/public/assets/a2-trial/ground.png",
+        "sha256": "834D6FF6EBD978E6564345C63A294743BB4AF6AC517559EAF577C956E63DA9CF",
+        "size_bytes": 1568952
+      },
+      {
+        "path": "apps/web/public/assets/a2-trial/hit.png",
+        "sha256": "567C19D710F8630D63BC7C9CA7946473A60A4AA653C4ACDE5CE03D1FA8134814",
+        "size_bytes": 4492
+      },
+      {
+        "path": "apps/web/public/assets/a2-trial/player.png",
+        "sha256": "B2A68F9024241C02D5942D50445A8131AF99BDD089F78E763FC235A55D7AC566",
+        "size_bytes": 14621
+      },
+      {
+        "path": "apps/web/public/assets/a2-trial/weapon-reference.png",
+        "sha256": "1D92FA8099E3202FC14E4D0BA0B28195CADAB7868387256BBCC6DBA477104FE8",
+        "size_bytes": 10935
+      },
+      {
+        "path": "apps/web/public/assets/art-3x3-r01/enemy-charger.png",
+        "sha256": "13F43CB3988368543979A468C8686BBCDEC811D52B974DCE257D8B8581D38448",
+        "size_bytes": 13355
+      },
+      {
+        "path": "apps/web/public/assets/art-3x3-r01/enemy-interceptor.png",
+        "sha256": "18FFF476D31001BE7AF83AF8CA02891498280D44128E7C0CF8DD6D4322146878",
+        "size_bytes": 8617
+      },
+      {
+        "path": "apps/web/public/assets/art-3x3-r01/enemy-presser.png",
+        "sha256": "1712613D5D54DC9856534F1BAB97D269B92163C7EB99FA668D02C09C8DEB2F4E",
+        "size_bytes": 14733
+      },
+      {
+        "path": "apps/web/public/assets/art-3x3-r01/weapon-aimed-projectile.png",
+        "sha256": "E276A0EC082693128267508195E5E0F6C385246FA41987489768C38A9DD9F2EC",
+        "size_bytes": 6409
+      },
+      {
+        "path": "apps/web/public/assets/art-3x3-r01/weapon-heavy-impact.png",
+        "sha256": "2008B185D01F39CB20BD4AFB166F34FDD0D562E568EE4B02593D748A27A1423D",
+        "size_bytes": 11491
+      },
+      {
+        "path": "apps/web/public/assets/art-3x3-r01/weapon-spell-carrier.png",
+        "sha256": "BE7586050A2E64CE70287ECB0FA89CF9ECAAC31D009C93CE11FCC8AE3F661471",
+        "size_bytes": 7391
+      },
+      {
+        "path": "apps/web/public/assets/player-primary-weapon-attachment/v01/ASSETS.json",
+        "sha256": "C8EF937070C01DEAD8A6B319B80E8C1C67C1BAAB233089BED90165377DEE27F0",
+        "size_bytes": 211
+      },
+      {
+        "path": "apps/web/src/app/create-game.ts",
+        "sha256": "CC7DF823C712A5C8A3CE31D254BCF5C0778612EF127CBD0674C52687F44B7EC6",
+        "size_bytes": 1519
+      },
+      {
+        "path": "apps/web/src/app/exam-router.ts",
+        "sha256": "43FB66D6EE88447CB37E90D8E133D4C80436C9A667602B3BF90B934272385E8B",
+        "size_bytes": 504
+      },
+      {
+        "path": "apps/web/src/app/portrait-profile.ts",
+        "sha256": "C7B42EA28FE597718F91727323EA40388639F56E89DF2ADA4249E8DEF58629BD",
+        "size_bytes": 4906
+      },
+      {
+        "path": "apps/web/src/app/public-url.ts",
+        "sha256": "0AD0BEA4FABC559826557266F1BC6483594CCFDE8B2DB96F6183ED75BD48910E",
+        "size_bytes": 140
+      },
+      {
+        "path": "apps/web/src/app/safe-area-layout.ts",
+        "sha256": "68BA95C0630D1A382731888A0DB19495E8B49BFF925F114799737D3A9DDA7D16",
+        "size_bytes": 3766
+      },
+      {
+        "path": "apps/web/src/app/startup-status.ts",
+        "sha256": "346EB8C966D56CE060380D826AA26F43D37CA8F818B9CD498F574F2565C449BE",
+        "size_bytes": 401
+      },
+      {
+        "path": "apps/web/src/input/joystick-state.ts",
+        "sha256": "E1739E22EACF9DB5D8A26743ECA5C4361439CBF4B86FD72638B3F18BB5E5F5B3",
+        "size_bytes": 2730
+      },
+      {
+        "path": "apps/web/src/input/keyboard-input.ts",
+        "sha256": "1881EEF93AAF4074B66A68CC31BE1BFC4E1523C8E3BFE81FC804C77D671A8C55",
+        "size_bytes": 1612
+      },
+      {
+        "path": "apps/web/src/input/touch-joystick.ts",
+        "sha256": "3D94B9AFD34D34A7CFC13CA17EA8882F159E93E9AAF3011F47BD07D5D7D23C76",
+        "size_bytes": 5462
+      },
+      {
+        "path": "apps/web/src/main.ts",
+        "sha256": "84BDDEC7E7663E2ED8BF8A1111F07D2F3971D869504D08E263641DCED580014F",
+        "size_bytes": 6530
+      },
+      {
+        "path": "apps/web/src/persistence/idb-persistence-kernel.ts",
+        "sha256": "E91823440C1BD2E33CB12E03CF1270F7A5F767BAF8846B517EAC892F217B8067",
+        "size_bytes": 21636
+      },
+      {
+        "path": "apps/web/src/render/a2-trial-renderer.ts",
+        "sha256": "FDEE24B0E45B48A8E1A9DE4A1ECD6130AA6A07C28CF0C0834B43C8EDDA9FFA4D",
+        "size_bytes": 7607
+      },
+      {
+        "path": "apps/web/src/render/art-assets.ts",
+        "sha256": "7B338C81FBD8E2B644F506FB3EDF8F6F8EEF141183FC5785057F2541B296726B",
+        "size_bytes": 7265
+      },
+      {
+        "path": "apps/web/src/render/diversity-renderer.ts",
+        "sha256": "C79489998469E9BD30ACE0F28A5898B2E5CF3922DDFE3686557CF86CDC7273DF",
+        "size_bytes": 18978
+      },
+      {
+        "path": "apps/web/src/render/event-effects.ts",
+        "sha256": "1A5E8EED099F488F5C78FBA58455E8D66F5868575D6084B69473B64BF2CAA9FD",
+        "size_bytes": 5350
+      },
+      {
+        "path": "apps/web/src/render/motion-cleave-renderer.ts",
+        "sha256": "7CB62BA21B5E55906BA11D8E9ED2CB347E4A63E680C83F64675BD8C29679A6AF",
+        "size_bytes": 1913
+      },
+      {
+        "path": "apps/web/src/render/palette.ts",
+        "sha256": "6A02C2B414CC91F35A228DB0737300201BC45BDF14CC7201EAFC0E9FBB96D771",
+        "size_bytes": 256
+      },
+      {
+        "path": "apps/web/src/render/pierce-feedback.ts",
+        "sha256": "8497535F998C85C60FC13DB067DC56A2A12A998FF47F1656BCC16882E2DB7F9A",
+        "size_bytes": 1466
+      },
+      {
+        "path": "apps/web/src/render/pinbreaker-renderer.ts",
+        "sha256": "7352FA4F4730C7F7F4C05A6135E7FF608DB572B139AA6A97C022F5BF48321548",
+        "size_bytes": 3874
+      },
+      {
+        "path": "apps/web/src/render/pressure-renderer.ts",
+        "sha256": "A23FCF2D1F6644FD3097003E16C2E20B2CFB4272F6B2620005D67597734CD33B",
+        "size_bytes": 2326
+      },
+      {
+        "path": "apps/web/src/render/primary-weapon-attachment-assets.ts",
+        "sha256": "4A5F253CF13B71CD39BDA71434900F9BC5D4D2445160256A46A9F65AA3B77A9E",
+        "size_bytes": 6878
+      },
+      {
+        "path": "apps/web/src/render/primary-weapon-attachment-profile.ts",
+        "sha256": "814244DBD3595DB05ADED6AD11BAEFFDE220D7DDF1EC3223290E9BDB6ADC4031",
+        "size_bytes": 1217
+      },
+      {
+        "path": "apps/web/src/render/primary-weapon-attachment.ts",
+        "sha256": "87689C7B6BD3F3C9CDB2146BEE69D81AE44349E6BFB6A39026630045A36180D9",
+        "size_bytes": 4116
+      },
+      {
+        "path": "apps/web/src/render/route-b-transform.ts",
+        "sha256": "953FFCCD7CC93DAD3C9284BCEA67A058E0AB488407EF1720500200FBC29C31FE",
+        "size_bytes": 2283
+      },
+      {
+        "path": "apps/web/src/render/snapshot-renderer.ts",
+        "sha256": "39C58CA296C1FEDA0C18F878BC173D8C6AA16965A63F71A0339F37E5B041C33E",
+        "size_bytes": 4320
+      },
+      {
+        "path": "apps/web/src/scenes/diversity-scene.ts",
+        "sha256": "92492E6786A58EB3E85FAF34607605D499D53F4A6D0FAD81BA5ABA19A4937133",
+        "size_bytes": 18919
+      },
+      {
+        "path": "apps/web/src/scenes/exam-scene.ts",
+        "sha256": "DF0EA679C6E0750E1B9C4464AC36138CCCAEC425A38020362100349DE937697F",
+        "size_bytes": 3656
+      },
+      {
+        "path": "apps/web/src/scenes/pressure-scene.ts",
+        "sha256": "52E2B73E9448D6C12C7B400D97A919959BD52CD118FD60726DBD234699989797",
+        "size_bytes": 3906
+      },
+      {
+        "path": "apps/web/src/styles.css",
+        "sha256": "13BA38D2F511F081A223D141AEDCFA3FFA06E545DE6F47DA2048DAD8FBC6613B",
+        "size_bytes": 7146
+      },
+      {
+        "path": "apps/web/src/testing/b5-w01-seam.ts",
+        "sha256": "E6B3F991572B38F8DC6513786A6BB735E20B8D90C95E06ECAD130254A44B764D",
+        "size_bytes": 7370
+      },
+      {
+        "path": "apps/web/src/testing/test-api.ts",
+        "sha256": "5464E092AAF586939F781E28A97B779602F76FD91D6E93EC897D9E9B307B4528",
+        "size_bytes": 861
+      },
+      {
+        "path": "apps/web/src/ui/diversity-hud.ts",
+        "sha256": "F8BE48817F6C19A8E0E604F7C7B34F44617C8C22CD003FE71FFB95A11E83CAE0",
+        "size_bytes": 10204
+      },
+      {
+        "path": "apps/web/src/ui/exam-hud.ts",
+        "sha256": "133BC65E7B3D4C84EE8F2013C4525E0351E43549115AC30597561092B61C8B96",
+        "size_bytes": 3224
+      },
+      {
+        "path": "apps/web/src/ui/forge-hud.ts",
+        "sha256": "9B4A295CC30C7F24075F15AF673E952634D3CED8A6E4851AB8E941BAFC9F3999",
+        "size_bytes": 11588
+      },
+      {
+        "path": "apps/web/src/ui/pressure-hud.ts",
+        "sha256": "D97D749CD633C6A34614135C960FE955E927739BAA5BE3E2F01E000806F5CD34",
+        "size_bytes": 2333
+      },
+      {
+        "path": "apps/web/src/vite-env.d.ts",
+        "sha256": "65996936FBB042915F7B74A200FCDDE7E410F32A669B1AB9597CFAA4B0FADDB5",
+        "size_bytes": 38
+      },
+      {
+        "path": "package-lock.json",
+        "sha256": "48FFF2441C584D4B48EE14B8A9009B543AE6AEA360AD3E73EB5AA87C4D6D932E",
+        "size_bytes": 55445
+      },
+      {
+        "path": "package.json",
+        "sha256": "A3682CF4A071EF97790A7AE044AECAE17CE35A3635D743181A522B6B90D1744E",
+        "size_bytes": 1368
+      },
+      {
+        "path": "packages/contracts/package.json",
+        "sha256": "20D76C8E42EDFC60C587F485F93BA08B345BCDDA816DA39442F86BE1A532A6E7",
+        "size_bytes": 131
+      },
+      {
+        "path": "packages/contracts/src/forge.ts",
+        "sha256": "22318C2A5F1677C574E138771B608B5E7AE5BD7B3EE4EAA5ACF4B354EDD84A3B",
+        "size_bytes": 44667
+      },
+      {
+        "path": "packages/contracts/src/index.ts",
+        "sha256": "09C1C4CE5E36F8476C7CAECD394D7610D9168DB0693F3B75205D52EAA4F56C53",
+        "size_bytes": 3704
+      },
+      {
+        "path": "packages/game-core/package.json",
+        "sha256": "6F4856EB0F0D4DE9C933BE9D5A5C8E116761D650C57AC420B54E5986950DA823",
+        "size_bytes": 131
+      },
+      {
+        "path": "packages/game-core/src/constants.ts",
+        "sha256": "46007CE430A18021E8C31FDB7926701CCF266C5DB95114AEAC0D16F79A6AFBB3",
+        "size_bytes": 394
+      },
+      {
+        "path": "packages/game-core/src/diversity/attack-proposal.ts",
+        "sha256": "53BC80BC001726209C2FAF28742F4703F80C9F1D57A222B84C0536CE31C0E586",
+        "size_bytes": 13730
+      },
+      {
+        "path": "packages/game-core/src/diversity/config.ts",
+        "sha256": "E8586D8E25B803CB5DFA20C9273B21A7D5E23D8E18D62EE2B58FE1C6667406C9",
+        "size_bytes": 5274
+      },
+      {
+        "path": "packages/game-core/src/diversity/enemies.ts",
+        "sha256": "5D04D8A7CC2A4FE5CBA0275216B23EA19AD00F1264A84C128BD8D63B90CA8635",
+        "size_bytes": 3845
+      },
+      {
+        "path": "packages/game-core/src/diversity/loadout-store.ts",
+        "sha256": "E3D00A185617BB6F636AD01BD9E748216A7138AC6D913595F32A7D623F5C062B",
+        "size_bytes": 7147
+      },
+      {
+        "path": "packages/game-core/src/diversity/runtime-config-b5-test-only.ts",
+        "sha256": "BBAA8CE69CE23E9F25A5A5A7B92D472D23DE19402FC34BF2DE68F42E94F6CB53",
+        "size_bytes": 14852
+      },
+      {
+        "path": "packages/game-core/src/diversity/runtime-config-source.ts",
+        "sha256": "0801E8751432D50F1BEB1ED53434BC56646FF2D4A76D52DE02ACDEB179872B48",
+        "size_bytes": 8558
+      },
+      {
+        "path": "packages/game-core/src/diversity/runtime-config.ts",
+        "sha256": "B04BA0E3D6DA1952A4077185CD9724DA7C48BAF0350E79ADBFC79F82E4492329",
+        "size_bytes": 27237
+      },
+      {
+        "path": "packages/game-core/src/diversity/runtime-weapons.ts",
+        "sha256": "57C6CF0587FC80BB4353826637F49FF375D1CC3D1992A3823BC444D97FFA36BD",
+        "size_bytes": 11059
+      },
+      {
+        "path": "packages/game-core/src/diversity/simulation.ts",
+        "sha256": "3601EE1379602575F33E1F7303A467286BA7D2255D2CDED68D3259B83344EC77",
+        "size_bytes": 17076
+      },
+      {
+        "path": "packages/game-core/src/diversity/weapon-feel.ts",
+        "sha256": "9CD49360610D5065C1024105964CB864C58BED88586768D09D0C8A4E15E8BBCC",
+        "size_bytes": 12699
+      },
+      {
+        "path": "packages/game-core/src/enemies/presser.ts",
+        "sha256": "8A8CB1218D2A791C930BABF287D85E69D6E4B02280A8D22C142192A978931662",
+        "size_bytes": 2595
+      },
+      {
+        "path": "packages/game-core/src/exam-configs.ts",
+        "sha256": "3BFC6682B05F3C2D1905EB454BF14990772741C8AB9AC773C72C753B67909B35",
+        "size_bytes": 1370
+      },
+      {
+        "path": "packages/game-core/src/exam-machine.ts",
+        "sha256": "EE624C9D95A821047A45256BEE2444CE1E8E1F447E0162441E5AF937CCE61959",
+        "size_bytes": 538
+      },
+      {
+        "path": "packages/game-core/src/forge/canonical.ts",
+        "sha256": "90B23075FD682EF7FF47CC771F3CCC9510018A9DC603A00C19F4169A42A83176",
+        "size_bytes": 3524
+      },
+      {
+        "path": "packages/game-core/src/forge/drop-rng.ts",
+        "sha256": "AA10157CCC059843B7170CB2569771CB3F17767F327EEE661AC5CF7C7C094ECC",
+        "size_bytes": 2008
+      },
+      {
+        "path": "packages/game-core/src/forge/legalize.ts",
+        "sha256": "12A5EDFE79454487C01BF54234D6241E997FEAA6104203CAF37100D783363830",
+        "size_bytes": 1201
+      },
+      {
+        "path": "packages/game-core/src/forge/session.ts",
+        "sha256": "45E53DD0ED1D4A5930ECF82A72E95EB9C35BE382B8C8CFCEA071187892E3BE48",
+        "size_bytes": 17416
+      },
+      {
+        "path": "packages/game-core/src/forge/source.ts",
+        "sha256": "33BF37A2976123BE82F1A7A1A7D89D68FBFCA1C9014A5109BBDFDD3F6CD0B0D6",
+        "size_bytes": 2426
+      },
+      {
+        "path": "packages/game-core/src/forge/weighted-half-open.ts",
+        "sha256": "4C70623D868A6F17DD717F2B67C6AF2608FFDB037EA7BE451F8B4489DF615811",
+        "size_bytes": 1152
+      },
+      {
+        "path": "packages/game-core/src/index.ts",
+        "sha256": "86F1ADA84283D4FC5AF1226E65EBBB54F8C7C66EE8C541F2F2CA770F4E094A0D",
+        "size_bytes": 3979
+      },
+      {
+        "path": "packages/game-core/src/math.ts",
+        "sha256": "B7A6462726386BBCBF03EBBB1D049E53ABE2F358850DE7DE6173E043B344202F",
+        "size_bytes": 1667
+      },
+      {
+        "path": "packages/game-core/src/model.ts",
+        "sha256": "F1DCC97C99493F8E9F7CD911720D341EB26A9F13FE9BE1268EA53DBD9FC38666",
+        "size_bytes": 1598
+      },
+      {
+        "path": "packages/game-core/src/pressure/analysis.ts",
+        "sha256": "09A9A66EEC8D968ACAF518D5CD18B996DF10C886395A3CE567865B6A5A2E9922",
+        "size_bytes": 3998
+      },
+      {
+        "path": "packages/game-core/src/pressure/config.ts",
+        "sha256": "A57045E45E466300178C2E278AF76AE32D301AB21982EA4ACCEA26B5EB2F4887",
+        "size_bytes": 1171
+      },
+      {
+        "path": "packages/game-core/src/pressure/constraints.ts",
+        "sha256": "00EA2B2C619EFC123BA5D2817AD117F1F842E3126CC22E4F64B51F7563E0389C",
+        "size_bytes": 3659
+      },
+      {
+        "path": "packages/game-core/src/pressure/contact-islands.ts",
+        "sha256": "5FDD4BF33C853ED056AC77C41B13EA6B492DC595407CB4FC9BCF699A74BB00C0",
+        "size_bytes": 1955
+      },
+      {
+        "path": "packages/game-core/src/pressure/geometry.ts",
+        "sha256": "5986780036B2A6C7F10EBE38CA5BBB92615D109FABA1AB97263514CF079C4B59",
+        "size_bytes": 1030
+      },
+      {
+        "path": "packages/game-core/src/pressure/model.ts",
+        "sha256": "C88358143BCBE2590E291644341EB707BC398BF98A7844D86AF823938C3180D2",
+        "size_bytes": 5032
+      },
+      {
+        "path": "packages/game-core/src/pressure/pinbreaker.ts",
+        "sha256": "2BA95AC15A784D6E44E090E13F49E2A94D2C316D39926F00981FCDBB2D38AB95",
+        "size_bytes": 4008
+      },
+      {
+        "path": "packages/game-core/src/pressure/simulation.ts",
+        "sha256": "75F5979BF41F9E17850C958F167C4491382959D45C4085AC4FD1B375B4A08588",
+        "size_bytes": 11720
+      },
+      {
+        "path": "packages/game-core/src/pressure/solver.ts",
+        "sha256": "5C67EED10086B4B3164FB3EEBCE9A68D226284D6C53B05EBE643020B6DB43C7E",
+        "size_bytes": 13993
+      },
+      {
+        "path": "packages/game-core/src/pressure/static-feasible-projection.ts",
+        "sha256": "544101628AC2CFB2BC1102001AEA3CC8780AB24F2762F49BE55D54BE5A8FB518",
+        "size_bytes": 3704
+      },
+      {
+        "path": "packages/game-core/src/replay.ts",
+        "sha256": "F6B907556D3592AB48A5888FC43B247371388A6B8FAEF9F644E790ADE04E6578",
+        "size_bytes": 789
+      },
+      {
+        "path": "packages/game-core/src/rng.ts",
+        "sha256": "975EB6322D20E2C181FF1E81C12CEC751943845CA30591077E96BF508B917994",
+        "size_bytes": 635
+      },
+      {
+        "path": "packages/game-core/src/simulation.ts",
+        "sha256": "13911A27537A811E91C5E3917EFADE016435B94A2553E011EDFCF6BB5F1288E4",
+        "size_bytes": 8859
+      },
+      {
+        "path": "packages/game-core/src/survival/analysis.ts",
+        "sha256": "68873C1B327C0FB834C212C5A1E1CF9F4B03594F76059DE9A411D92C3FA85A81",
+        "size_bytes": 4761
+      },
+      {
+        "path": "packages/game-core/src/survival/config.ts",
+        "sha256": "BDBCDA1301D4A4220D57436A15117A5E413A4D92B1649412B62D1B3E4CB5DE11",
+        "size_bytes": 2240
+      },
+      {
+        "path": "packages/game-core/src/survival/model.ts",
+        "sha256": "10775CBCEF238FCA986785E32471229394889588395E8E89E8AD278BE5F501F8",
+        "size_bytes": 8407
+      },
+      {
+        "path": "packages/game-core/src/survival/simulation.ts",
+        "sha256": "1F244ECAA9B200FE034376D795ED6A4FBB39BDD7B007CEB3828F34F3BF617161",
+        "size_bytes": 35339
+      },
+      {
+        "path": "packages/game-core/src/weapons/aimed-projectile.ts",
+        "sha256": "DD6B5DE66EE9730BEBA3A0DBA8003C777ABE0539E51BEEA093E9C503D36BAB40",
+        "size_bytes": 5217
+      },
+      {
+        "path": "packages/game-core/src/weapons/heavy-impact.ts",
+        "sha256": "53541FCCF16DC013488255B9DFC179B62010D1FC66766A2BB1BF272870AF80A2",
+        "size_bytes": 1881
+      },
+      {
+        "path": "packages/game-core/src/weapons/motion-cleave.ts",
+        "sha256": "F9C5BADE1460AB3BAD96E940C58294559C95F7489CB9D349415D7054C0B738AA",
+        "size_bytes": 2694
+      },
+      {
+        "path": "packages/game-core/src/weapons/spell-carrier.ts",
+        "sha256": "D43AB552932A454B118D24A16199586BE3372A1EC90B2382CD3704DFFE3C37C2",
+        "size_bytes": 2317
+      },
+      {
+        "path": "packages/local-command-store/src/contract.mts",
+        "sha256": "E62FAEBABC60EB1894CE86EAC00A5FC39542EB2293A129175350717B6CE2C37D",
+        "size_bytes": 23761
+      },
+      {
+        "path": "packages/local-command-store/src/node-builtins.d.ts",
+        "sha256": "2AC944E6F5B3A51FE395B64191C54A2FF646CF606099F1665AB46100E5C99B2C",
+        "size_bytes": 903
+      },
+      {
+        "path": "packages/local-command-store/src/schema.mts",
+        "sha256": "F23503BDB3FB52F5C80C7C467940192103A5DAD01455594A213D7137872B3CE0",
+        "size_bytes": 5328
+      },
+      {
+        "path": "packages/local-command-store/src/store.mts",
+        "sha256": "14B307DC47F52965BF80A4E5C68669FA797EE236C1FB4773A5925E7F19B7A42C",
+        "size_bytes": 21523
+      },
+      {
+        "path": "packages/local-command-store/tests/continue-no-offer-command.test.mjs",
+        "sha256": "18C544EADD5E19397E05DC83C4B9FB8C91E5887BBEFEE388864342A724058A9C",
+        "size_bytes": 30086
+      },
+      {
+        "path": "packages/local-command-store/tests/continue-no-offer-fixtures.mjs",
+        "sha256": "F367894A30CC6A87102A6208DB675B7561B545ED95CF72DDD4254092D84637BC",
+        "size_bytes": 6315
+      },
+      {
+        "path": "packages/local-command-store/tests/durable-store.test.mjs",
+        "sha256": "E8CBB07895DA5BC9DA70A6A99D91E28182146915C52374E5A471DC5095FCBA41",
+        "size_bytes": 25324
+      },
+      {
+        "path": "packages/local-command-store/tests/durable-worker.mjs",
+        "sha256": "3F09623CDCE4140ACE6F5D43822AF7A0EB460928FB28EC701BCEA1089FB8698E",
+        "size_bytes": 2705
+      },
+      {
+        "path": "packages/local-command-store/tests/storage-fixtures.mjs",
+        "sha256": "D84694F62EA02E775528EF43783FCA1354E9418285349742EB1E42BDC9949C31",
+        "size_bytes": 8472
+      },
+      {
+        "path": "packages/local-command-store/tsconfig.m05.json",
+        "sha256": "BAF979867A3845F6B12A4085F7642EC903C6A16AC16E4045FE9147E85DDE577D",
+        "size_bytes": 395
+      },
+      {
+        "path": "scripts/build-r05-trial.mjs",
+        "sha256": "AB1BBDFAE7FA360DCA5D3BEAE842344717EB06297C074F7A4BBA4396279777AE",
+        "size_bytes": 16706
+      },
+      {
+        "path": "scripts/build-r06-trial.mjs",
+        "sha256": "A177D571BC7045ADF77C669E80252DD3F7CAFD8E1904F0EE15919CC30B0898C4",
+        "size_bytes": 16820
+      },
+      {
+        "path": "scripts/build-r07-r7-trial.mjs",
+        "sha256": "3148231968E917F502F8755ED8258EC2DCB8F42D24F451727B5DDF7D717DA133",
+        "size_bytes": 17738
+      },
+      {
+        "path": "scripts/build-r07-r8-trial.mjs",
+        "sha256": "1A9EA4B1FFE9D3581162E8C043BE952BF62CF40EF862A6DCF56078B995102A25",
+        "size_bytes": 19231
+      },
+      {
+        "path": "scripts/build-r07-trial.mjs",
+        "sha256": "983711B53D8A55FAC1BFEF1E2531E51B5F0D22366F1127658756997BFBC30B27",
+        "size_bytes": 16820
+      },
+      {
+        "path": "scripts/build-v17-candidate.mjs",
+        "sha256": "FF014344736BF4215E5C05A2EC1DF06E855BD2F50CC3660C2F06766A398F7352",
+        "size_bytes": 16546
+      },
+      {
+        "path": "scripts/candidate-manifest.mjs",
+        "sha256": "FD7922D4CCEC8B437768042DAF6E3AF1C3E5F1E8AEB3377F9CF37FD3D212F531",
+        "size_bytes": 2262
+      },
+      {
+        "path": "scripts/observe-vite-temp-r07-r3.mjs",
+        "sha256": "CDEF37B6347760FF371F84D2524865CE5182F17E2BCB9357A73E0CDA6C92B323",
+        "size_bytes": 6043
+      },
+      {
+        "path": "scripts/observe-vite-temp-r07-r4.mjs",
+        "sha256": "DBF986ADBAA5806F14B15D51E458AAA90D93816ECB9C3251E6CBC57011D4D69D",
+        "size_bytes": 6442
+      },
+      {
+        "path": "scripts/observe-vite-temp-r07-r7.mjs",
+        "sha256": "6AD544EEE9BE714AB70CAC3DE0A6CC7F666A21D13441531053F2FAFD2FC21EC5",
+        "size_bytes": 9176
+      },
+      {
+        "path": "scripts/observe-vite-temp-r07-r8.mjs",
+        "sha256": "BDBBF678ADF0456EAC306F59BCFF871F30AC6596DBD5E45C4536D3B1E77CD544",
+        "size_bytes": 9102
+      },
+      {
+        "path": "scripts/package-r05-trial.mjs",
+        "sha256": "CBBA11317FA6311BA8840D39809F2F79D2AB2068427B6CD62BDE1582E731B18F",
+        "size_bytes": 6800
+      },
+      {
+        "path": "scripts/package-r06-trial.mjs",
+        "sha256": "68D0815A6FC3507DE758ECBE48ACE425841A1D2C5DCD571D97B087D05F8B175C",
+        "size_bytes": 6800
+      },
+      {
+        "path": "scripts/package-r07-r7-trial.mjs",
+        "sha256": "15B71EA71A6515178A5DDE418CBCEAF2C3225B418EFBB01A436746033A47CAE4",
+        "size_bytes": 16386
+      },
+      {
+        "path": "scripts/package-r07-r8-trial.mjs",
+        "sha256": "99CD72817D5D628157E7E82F390CBEA415C29E2B332BA2400191BC8343D63F92",
+        "size_bytes": 16474
+      },
+      {
+        "path": "scripts/package-r07-trial.mjs",
+        "sha256": "03EA57427FCFF5C009087B00C3E3EB90923F6BA90E1D0A6F6B27973CEFD11027",
+        "size_bytes": 6800
+      },
+      {
+        "path": "scripts/prepare-r07-r7-runtime-export.mjs",
+        "sha256": "CB54AE8E1E1E6D2592EFFC07EEB8B0E90B9EC5EDCE1FB03D4F5CFAD341A3BC79",
+        "size_bytes": 1948
+      },
+      {
+        "path": "scripts/s3-1-candidate-manifest.mjs",
+        "sha256": "4DC8F14DE507E9C227ED8601D55EB5B0B86BF23751326A4E3947C3D9C6E50EAE",
+        "size_bytes": 2097
+      },
+      {
+        "path": "scripts/s3-1-source-boundary.mjs",
+        "sha256": "DF4FC0F31BEC095248DDA6593051C59E745BAD096D9D794F4EF38E04E0CE1DB9",
+        "size_bytes": 1139
+      },
+      {
+        "path": "scripts/serve-r05-https.mjs",
+        "sha256": "A85785DCFD1910A83A1B1446995B3CEBBC7C5BD1117D5750F7C680C8B4D3FF4A",
+        "size_bytes": 2831
+      },
+      {
+        "path": "scripts/serve-r06-https.mjs",
+        "sha256": "0E63170DD7AEE5182ACCCFDFDF1344F1D8336A2389435D93EDC12FB4C29FAA42",
+        "size_bytes": 2831
+      },
+      {
+        "path": "scripts/serve-r07-https.mjs",
+        "sha256": "62E5FF70225AB1BFEDDD4CC3F87F5C2BF6380D73A83319DE36EC0F6BB178F33B",
+        "size_bytes": 2831
+      },
+      {
+        "path": "scripts/serve-r07-r7-https.mjs",
+        "sha256": "C06C252B07D4CB4E35982FCD78E53FDEFF29A5B42146FF6D184277EAEC54FE80",
+        "size_bytes": 3373
+      },
+      {
+        "path": "scripts/serve-r07-r8-https.mjs",
+        "sha256": "7C5150E2B4B12CF75F08D6B41A3D9A4F7F33F5388C3C1C2925627BB3E030D062",
+        "size_bytes": 3373
+      },
+      {
+        "path": "scripts/verify-candidate-manifest-output.mjs",
+        "sha256": "1515096F78BEED5DF3B52B6A31A1E28C2D4983380E3DEE33A3897AB6508602E6",
+        "size_bytes": 1968
+      },
+      {
+        "path": "scripts/verify-r05-trial-evidence.mjs",
+        "sha256": "AE8E93292C20F1107C2D3EFA8D0A1ACF7B8C3C1B8044039B97FC4A758621AD25",
+        "size_bytes": 10540
+      },
+      {
+        "path": "scripts/verify-r06-trial-evidence.mjs",
+        "sha256": "97980BD9E653C01F1CE79BAD0B62B2895EC38FB31C6EC20035ADF5D5A62DF82B",
+        "size_bytes": 10540
+      },
+      {
+        "path": "scripts/verify-r07-r7-trial-evidence.mjs",
+        "sha256": "493A78438BFDAB3B2E6523D4118FE5F4D88F9C037AFF63E733DE5E8C5CE002A1",
+        "size_bytes": 14487
+      },
+      {
+        "path": "scripts/verify-r07-r8-trial-evidence.mjs",
+        "sha256": "66A4E404F83DF46BEB65DA571A99C7F14A0B015113255F39EA31903B77C887AD",
+        "size_bytes": 16569
+      },
+      {
+        "path": "scripts/verify-r07-trial-evidence.mjs",
+        "sha256": "207A18A032A79C3D1063FB270EC8822B48436AA4C8DC29C5699AAA3FDE84EE98",
+        "size_bytes": 10540
+      },
+      {
+        "path": "scripts/verify-v17-browser-evidence.mjs",
+        "sha256": "D1B5B1F7AF7C50D0CDC16D89F94D063F4059DFC667032E7931E834380734D479",
+        "size_bytes": 6549
+      },
+      {
+        "path": "tests/browser/b5-w01-seam.spec.mjs",
+        "sha256": "BCA07B37BDE8C19FFB89742A4CA97BCB8CB997E2F5177954D163DE95131C9C79",
+        "size_bytes": 4270
+      },
+      {
+        "path": "tests/browser/diversity-autotarget.spec.ts",
+        "sha256": "EF9F331A127DC3721B8E1E5DEBB48D9AD36E45ADF6CAA1F3B97DC1D7ACE5455C",
+        "size_bytes": 8001
+      },
+      {
+        "path": "tests/browser/diversity.spec.ts",
+        "sha256": "8E4D0096E61F77982BFA2C0FF11433EF5E30C3D2B1F6624D4DF93E3F0885383E",
+        "size_bytes": 43019
+      },
+      {
+        "path": "tests/browser/forge-local.spec.ts",
+        "sha256": "9A4E45ABEC635E52449E27955E7DB0EB0FB2617B49C839FA753716DF0E987B59",
+        "size_bytes": 4436
+      },
+      {
+        "path": "tests/browser/idb-e24-playwright.config.ts",
+        "sha256": "E34768482AD416333A39D9DC03F91CB8728D40F929E0308C45A6AEC8F48DC605",
+        "size_bytes": 1354
+      },
+      {
+        "path": "tests/browser/idb-e24-vite.config.ts",
+        "sha256": "FFBC0001A7F0D10EE25DBC34C068DF86EC389AAFA85E98259C55679A9905D638",
+        "size_bytes": 672
+      },
+      {
+        "path": "tests/browser/idb-kernel-vite.config.ts",
+        "sha256": "E6F9A50EA95262A6FD7274178BF6939AA0A0A55859336388291FF4B26D613F3C",
+        "size_bytes": 847
+      },
+      {
+        "path": "tests/browser/idb-node-imports.d.ts",
+        "sha256": "BA75FD24A648F70206D6B14B66360B2A9B7DC5D9DCA063F0F869A2661B2580A7",
+        "size_bytes": 174
+      },
+      {
+        "path": "tests/browser/idb-persistence-kernel.config.ts",
+        "sha256": "9E8DAE3B5D57FE6D1D5509B6B65DB1E742E51D7BE195BD7E0189B70EC1843E49",
+        "size_bytes": 1212
+      },
+      {
+        "path": "tests/browser/idb-persistence-kernel.spec.ts",
+        "sha256": "74CB4C6119F065A6BC9DF2C6EE35E04DD6AA7003AD2DD07505F05C96133511D6",
+        "size_bytes": 15563
+      },
+      {
+        "path": "tests/browser/portrait-diversity.spec.ts",
+        "sha256": "89F5EBB091C0C46AF5F9D409D348B71BA0BEE3AA2D49C56767D90B660298B324",
+        "size_bytes": 14209
+      },
+      {
+        "path": "tests/browser/pressure-s3-1.spec.ts",
+        "sha256": "ACC7C3ED605B4BB4CA57BB301BE6A99EDB2902FFC9623264C5992C609FF0CC2F",
+        "size_bytes": 1745
+      },
+      {
+        "path": "tests/browser/pressure-s3-2.spec.ts",
+        "sha256": "9F580FED02D9227E162613DA2FEEC50CBE5A8653760E225E5C7303EC671AF735",
+        "size_bytes": 4354
+      },
+      {
+        "path": "tests/browser/primary-weapon-attachment.spec.ts",
+        "sha256": "A5145F1693F98B631E9C9CB20F290F8F51894746E8685FED5E4C9189A953CF3C",
+        "size_bytes": 6573
+      },
+      {
+        "path": "tests/browser/shell.spec.ts",
+        "sha256": "59CB2B12C5CA073CA16BFB22E20E82072399660D1741FB155BFD9EE78BF1409E",
+        "size_bytes": 876
+      },
+      {
+        "path": "tests/browser/startup-loading.spec.ts",
+        "sha256": "531C240EB4DFE33AD0BB5840E6A1ACD97E7B90AD9EE00A39690E9531200110E5",
+        "size_bytes": 2695
+      },
+      {
+        "path": "tests/browser/two-card-r05-trial.spec.ts",
+        "sha256": "6455AB9268A71CABFA0BE64F53DAA2514663238E64D5B6FE05379C812C11ED71",
+        "size_bytes": 2718
+      },
+      {
+        "path": "tests/browser/two-card-r06-trial.spec.ts",
+        "sha256": "6455AB9268A71CABFA0BE64F53DAA2514663238E64D5B6FE05379C812C11ED71",
+        "size_bytes": 2718
+      },
+      {
+        "path": "tests/browser/two-card-r07-r6-trial.spec.ts",
+        "sha256": "836E45D1C262028E05A964740A820329FF5E432A770AD4B9C8DDB4FE315ACC7F",
+        "size_bytes": 2981
+      },
+      {
+        "path": "tests/browser/two-card-r07-r8-trial.spec.ts",
+        "sha256": "73FBF301F60EBAB949739FC739EE0ECE8B21F937997E57EC5EE329A96CCA00F5",
+        "size_bytes": 4905
+      },
+      {
+        "path": "tests/browser/two-card-r07-trial.spec.ts",
+        "sha256": "6455AB9268A71CABFA0BE64F53DAA2514663238E64D5B6FE05379C812C11ED71",
+        "size_bytes": 2718
+      },
+      {
+        "path": "tests/browser/weapon-ab.spec.ts",
+        "sha256": "6E7CDA0A0E62295EE6231E0BEACCD221342C969711F9FD0D818D1EB3DB952299",
+        "size_bytes": 6930
+      },
+      {
+        "path": "tests/browser/weapon-three.spec.ts",
+        "sha256": "D72E15E3AC7CDFE92E2C0CAE08B1BB06BEDD99A26A72084A0C81ED9553B51653",
+        "size_bytes": 6526
+      },
+      {
+        "path": "tests/fixtures/motion-cleave-replay.ts",
+        "sha256": "CCC9A579CA25492637C91EB6A467D140EC8BF1DDD981A15615C85BCDFEF50879",
+        "size_bytes": 1678
+      },
+      {
+        "path": "tests/fixtures/pinbreaker-replay.ts",
+        "sha256": "75B289BF4370B089C6C291E1FE51FB841EC001F706E9C506B4BA2660C75D5877",
+        "size_bytes": 421
+      },
+      {
+        "path": "tests/fixtures/pressure-replays.ts",
+        "sha256": "368FF8F6E4112532259CF2CD087E483EA88BA3E964A07195D42AE06A5624E165",
+        "size_bytes": 2031
+      },
+      {
+        "path": "tests/fixtures/replays.ts",
+        "sha256": "83C5517A3665FD508D2DDD42C6F4380F5D14D569182A5B5D54965F0D35EFA329",
+        "size_bytes": 800
+      },
+      {
+        "path": "tests/fixtures/survival-r-a-scenarios.ts",
+        "sha256": "516ED7A38EB0D764F2349DAE672423DCB05EFDB6EC633B9E7940D1CBFE2081EE",
+        "size_bytes": 8112
+      },
+      {
+        "path": "tests/fixtures/v030-b5-test-only-runtime-config-r01.ts",
+        "sha256": "D92848B4E57BB1EB18334700E367381E033D018A1C3F3222C80CF3F652371432",
+        "size_bytes": 1533
+      },
+      {
+        "path": "tests/fixtures/v030-runtime-config-r02.ts",
+        "sha256": "55AC42B1EEEE1A14439121E9A8D8D898E31F6788B6DE032460F00C26850B9741",
+        "size_bytes": 8416
+      },
+      {
+        "path": "tests/fixtures/weapon-three-replays.ts",
+        "sha256": "3ADC237B718226770A943907237CDE95FFABC3C277777D767635AC8177D087AF",
+        "size_bytes": 1347
+      },
+      {
+        "path": "tests/unit/contracts.test.ts",
+        "sha256": "C544559751681472951BF175D7BE3F8C8F8B24978AADA357E3475BDBB1A50357",
+        "size_bytes": 1591
+      },
+      {
+        "path": "tests/unit/diversity-a2-runtime-consumption.test.ts",
+        "sha256": "09087C8DF2946E10952CAA4BEC07595C3AE61949E88BFEC3D78E242D7579379E",
+        "size_bytes": 11576
+      },
+      {
+        "path": "tests/unit/diversity-autotarget-reacquisition.test.ts",
+        "sha256": "324A5370CD999214FFC0B22CBA0CE6DB9409045ADFAA74EA32E3E580193860E2",
+        "size_bytes": 2304
+      },
+      {
+        "path": "tests/unit/diversity-b3-1-w01-targeting-gap.test.ts",
+        "sha256": "FD81F1EBB8B0CC1E2AE43EAA91A269FBECCFB69567E4DE4E3F95320F17EE25FE",
+        "size_bytes": 8854
+      },
+      {
+        "path": "tests/unit/diversity-b3-combat-loss-telemetry.test.ts",
+        "sha256": "F054451D08CC9D9879B24E25EEAF35293F8FB8BB2F332E33AAFCC5990A6F2525",
+        "size_bytes": 6771
+      },
+      {
+        "path": "tests/unit/diversity-continuous-world.test.ts",
+        "sha256": "82E8038C929D7D429307C0542DCEAFEF7DED86D9A0AB7068CDFD66B18AD6F326",
+        "size_bytes": 8898
+      },
+      {
+        "path": "tests/unit/diversity-core.test.ts",
+        "sha256": "5C87CC2AE786B4940451827668403746DF468EAFFF2CC1A578BAF83F210BB271",
+        "size_bytes": 5751
+      },
+      {
+        "path": "tests/unit/diversity-matrix.test.ts",
+        "sha256": "68E059B264AB682165157A579EB2A3A4EFEB4B5F5D6679018064CD86B1F103EF",
+        "size_bytes": 2454
+      },
+      {
+        "path": "tests/unit/diversity-runtime-config.test.ts",
+        "sha256": "60F687B9537054C0BC94D72193E0203F02F5742141976506F6BB296BDB50D42C",
+        "size_bytes": 20543
+      },
+      {
+        "path": "tests/unit/diversity-weapon-feel.test.ts",
+        "sha256": "FD166E81317E830504B2B9E657EED8F006396287A4C6A10B8B27B1B6249D5489",
+        "size_bytes": 26575
+      },
+      {
+        "path": "tests/unit/exam-machine.test.ts",
+        "sha256": "14609AF47AC5D0005696F69D068DBC2DF4108ED2E63C2BF8454CB9601AC764EE",
+        "size_bytes": 583
+      },
+      {
+        "path": "tests/unit/forge-canonical.test.ts",
+        "sha256": "07F5B12C00238278539AED176EBD62CA3356EE94C14E7B7F8E21E18C09D3596E",
+        "size_bytes": 3016
+      },
+      {
+        "path": "tests/unit/forge-contracts.test.ts",
+        "sha256": "37EF0B3DD8F79A41275335A39C2726F8E709BF378F29F0628F4EAA98DE6AFE13",
+        "size_bytes": 14668
+      },
+      {
+        "path": "tests/unit/forge-drop-rng.test.ts",
+        "sha256": "D52E8E5E81859931B5654CBEB540E1EA3C268F2FCAFDFEFEF8FD21727F32F3F3",
+        "size_bytes": 2879
+      },
+      {
+        "path": "tests/unit/forge-frontend-security.test.ts",
+        "sha256": "A04184093DE50B75D41037CDD0C86F797987B66F864F8A94F034202ED2AC54C2",
+        "size_bytes": 909
+      },
+      {
+        "path": "tests/unit/forge-session.test.ts",
+        "sha256": "74E3822AFE77F864221A0459AE78CF13428E88829F7540D960E598FFE6219FA6",
+        "size_bytes": 4618
+      },
+      {
+        "path": "tests/unit/forge-source.test.ts",
+        "sha256": "5450628C9D795991F677736CA06F02CE0CFD7F723A99D284691C70BB7B9FDC1F",
+        "size_bytes": 2028
+      },
+      {
+        "path": "tests/unit/forge-weighted-half-open.test.ts",
+        "sha256": "6202EEC8F44E43ACCA05488A60D893B76DEB47AF2332EA0E3B382A9DBEE5650C",
+        "size_bytes": 2502
+      },
+      {
+        "path": "tests/unit/joystick-state.test.ts",
+        "sha256": "EF26AF34CD7072F9C267D42A4505E0CB7C43CBCED24B0FC94DF40E6ECDAC5220",
+        "size_bytes": 2468
+      },
+      {
+        "path": "tests/unit/pierce-feedback.test.ts",
+        "sha256": "998FAA4F41BB747308F4730CDCCCDC616AC63834C8D8B5999DBFDACFE3CF937D",
+        "size_bytes": 1901
+      },
+      {
+        "path": "tests/unit/portrait-profile.test.ts",
+        "sha256": "232C321AE44D86B48FD8DC0008604B9BBC5145277C3FF20F15554178076D21C3",
+        "size_bytes": 2030
+      },
+      {
+        "path": "tests/unit/pressure-s3-1.test.ts",
+        "sha256": "2DADF28ADAE5F99F1D784135BA664D01DDA7C8497E913C84FCDC55847DB7E09C",
+        "size_bytes": 9329
+      },
+      {
+        "path": "tests/unit/pressure-s3-2-pinbreaker.test.ts",
+        "sha256": "9239B2A1376DC539D13440789BDA20549C9A060A77A62982F6AA9AB58B622BD8",
+        "size_bytes": 2335
+      },
+      {
+        "path": "tests/unit/primary-weapon-attachment-assets.test.ts",
+        "sha256": "E213358C13DF5B96B103CF5DB29558ADBDA1D39E1CAB30A5EBE229368CBC621A",
+        "size_bytes": 4563
+      },
+      {
+        "path": "tests/unit/primary-weapon-attachment-integration.test.ts",
+        "sha256": "4AF75E58CA143403AB0C3A0F1E2D34B75B7CC7F44F32EB4F331D641F56D3036B",
+        "size_bytes": 2363
+      },
+      {
+        "path": "tests/unit/primary-weapon-attachment.test.ts",
+        "sha256": "BE49A962B41F7E4726BD6AF75699BA12E3636EE1B98021678ADD5F2FC4D72D33",
+        "size_bytes": 2686
+      },
+      {
+        "path": "tests/unit/public-url.test.ts",
+        "sha256": "F1A5110E23FB5130F3C6EEAAD6ADCE48A40027A68422B0B50139283F561FF7C8",
+        "size_bytes": 1131
+      },
+      {
+        "path": "tests/unit/replay.test.ts",
+        "sha256": "04D3A3DA9A7BCC0FB581C1C61399089FAA85F461D37194CF69A34424BC071113",
+        "size_bytes": 965
+      },
+      {
+        "path": "tests/unit/rng.test.ts",
+        "sha256": "AD1337809C3475AB553E44C0A13332B2CCC5564EC1062C4144BF724B0C72642A",
+        "size_bytes": 317
+      },
+      {
+        "path": "tests/unit/route-b-transform.test.ts",
+        "sha256": "13D205CE9A92C4DB926FA2EB8DA031464BB10A302112A716A63154E3D3A3E56F",
+        "size_bytes": 2482
+      },
+      {
+        "path": "tests/unit/survival-r-a-core.test.ts",
+        "sha256": "66916C65A53E867BF3358CFB85A5F23E895AC8686FA022B24E3E948F535F8C0F",
+        "size_bytes": 31919
+      },
+      {
+        "path": "tests/unit/survival-r-a-validation.test.ts",
+        "sha256": "9025A51B217A0E709A18B29E05007CC0F79F22F0D6F94F8EA30F5C8AE15EDFCB",
+        "size_bytes": 64069
+      },
+      {
+        "path": "tests/unit/two-card-r05-trial.test.ts",
+        "sha256": "19FE25EFFCE44813A974E176029C25320E627DBFC87A1F2E5C1C66EA19B7686D",
+        "size_bytes": 4987
+      },
+      {
+        "path": "tests/unit/two-card-r06-trial.test.ts",
+        "sha256": "761808CAF5A4534C8A29048F5A27ED7C40A366D4A056EB149BBA46A6E73DD876",
+        "size_bytes": 4995
+      },
+      {
+        "path": "tests/unit/two-card-r07-r7-trial.test.ts",
+        "sha256": "6E0DF578E7CBE04A222CB6E3A1FE4910B5972BD476115B554A1134564CA0C6AE",
+        "size_bytes": 5727
+      },
+      {
+        "path": "tests/unit/two-card-r07-r8-trial.test.ts",
+        "sha256": "E20E78AA3FF7328EF98C8F1444709B16BA95A813F898BF45C1B90D235C2CD01A",
+        "size_bytes": 5169
+      },
+      {
+        "path": "tests/unit/two-card-r07-trial.test.ts",
+        "sha256": "2B133FB317F28E02B3578FBE86FD375D612F29CF01645F25269A18E62814A90F",
+        "size_bytes": 6056
+      },
+      {
+        "path": "tests/unit/two-card-v17.test.ts",
+        "sha256": "84592C189EE0A6C60A7C1ADEE2AB7B8BDEA943EB716526C0600EF5AF8D24A741",
+        "size_bytes": 5978
+      },
+      {
+        "path": "tests/unit/weapon-ab.test.ts",
+        "sha256": "EC04B3811ED7A265AC7EE49CA806A2E57FAC36E1B61E825C0AD0FEDABC8E80FA",
+        "size_bytes": 4499
+      },
+      {
+        "path": "tests/unit/weapon-three.test.ts",
+        "sha256": "956ECC5E4CD4EE5430AB92A7D407E46FC498C4749AAC79AC08C3162B50C71162",
+        "size_bytes": 6856
+      },
+      {
+        "path": "tsconfig.json",
+        "sha256": "59A1DB44BD7E511420146A677B98122D3DCC6FAA6B7A38CA5035FEBFB677C91F",
+        "size_bytes": 547
+      },
+      {
+        "path": "tsconfig.r07.json",
+        "sha256": "AC4FF24D944D0791D03761009F413265C9E0603E06FB5CE40B14588C1148C165",
+        "size_bytes": 159
+      },
+      {
+        "path": "vite.config.ts",
+        "sha256": "80B835FEF0858F7BCBD8CD1EEA6BFA844EF10E861597E64A966FD3F8180729E8",
+        "size_bytes": 575
+      },
+      {
+        "path": "vitest.config.ts",
+        "sha256": "19EAF1782F5D38B0A97CAEBDDB342AB39655EAF7A7AFE7C0D8341AB7FBCDF051",
+        "size_bytes": 431
+      }
+    ]
+  },
+  "seed": 7301,
+  "output": "F:\\svn\\cehua\\AI_coding\\projects\\P0-DF_demon_forge\\05_evidence\\DF-V030-TWO-CARD-TRIAL-20260924-R07-R8\\runtime\\ab\\A",
+  "commands": [
+    {
+      "label": "check",
+      "command": [
+        "node",
+        "F:\\svn\\cehua\\AI_coding\\projects\\P0-DF_demon_forge\\03_demo\\node_modules\\typescript\\bin\\tsc",
+        "-p",
+        "F:\\svn\\cehua\\AI_coding\\projects\\P0-DF_demon_forge\\03_demo\\tsconfig.r07.json",
+        "--noEmit"
+      ],
+      "exit_code": 0,
+      "error": null,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "label": "test:r07-r8",
+      "command": [
+        "npm",
+        "run",
+        "test",
+        "--",
+        "tests/unit/two-card-r07-r8-trial.test.ts",
+        "--reporter=verbose"
+      ],
+      "exit_code": 0,
+      "error": null,
+      "stdout": "\n> demon-forge-m1-2d@0.1.0 test\n> vitest run --config vitest.config.ts tests/unit/two-card-r07-r8-trial.test.ts --reporter=verbose\n\n\n RUN  v4.1.11 F:/svn/cehua/AI_coding/projects/P0-DF_demon_forge/03_demo\n\n ✓ tests/unit/two-card-r07-r8-trial.test.ts > R07-R8 test-only W01 comparison contract > binds new policy and raw B provenance without changing the signed 79 values 19ms\n ✓ tests/unit/two-card-r07-r8-trial.test.ts > R07-R8 test-only W01 comparison contract > draws W01 and W02 at 7301 and executes W01 with the B frozen cooldown 61ms\n ✓ tests/unit/two-card-r07-r8-trial.test.ts > R07-R8 test-only W01 comparison contract > keeps an explicit random fallback when R8 build markers are absent 0ms\n\n Test Files  1 passed (1)\n      Tests  3 passed (3)\n   Start at  19:56:33\n   Duration  951ms (transform 291ms, setup 0ms, import 526ms, tests 83ms, environment 0ms)\n\n",
+      "stderr": "",
+      "test_count": 3
+    },
+    {
+      "label": "vite-build",
+      "command": [
+        "vite",
+        "build",
+        "--config",
+        "F:\\svn\\cehua\\AI_coding\\projects\\P0-DF_demon_forge\\03_demo\\vite.config.ts"
+      ],
+      "exit_code": 0
+    }
+  ],
+  "status": "BUILD_SUCCEEDED",
+  "trial_policy": {
+    "path": "F:\\svn\\cehua\\AI_coding\\projects\\P0-DF_demon_forge\\00_control\\planning-evidence\\P0-DF-TWO-CARD-TRIAL-SCOPE-20260924-R07-R8\\decisions\\r08-test-only-parameter-policy.json",
+    "sha256": "C128544BC1A1DE1646B7CE20D23DC58BDABF6BE40B7B2BE77BD406771B7A3DEE"
+  },
+  "runtime_hash_binding": "666630523A830248237DF617889E175AD90F4929B069C79CB59E5821741B0CEA",
+  "variant": null,
+  "source_manifest": {
+    "path": "F:\\svn\\cehua\\AI_coding\\projects\\P0-DF_demon_forge\\05_evidence\\DF-V030-TWO-CARD-TRIAL-20260924-R07-R8\\runtime\\ab\\A-source-manifest.json",
+    "sha256": "DBF42D1FEBD37DA7ED4DEED8189DF9EB36DF304B95AE406A77699CA1D7F8FDD9",
+    "size_bytes": 49835
+  }
+}
