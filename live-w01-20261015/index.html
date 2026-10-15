@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>恶魔锻造炉</title>
+    <style>
+      html,body { margin:0; background:#0b0d12; color:#ffcf81; }
+      #boot-notice { position:fixed; inset:0; z-index:100; display:grid; place-content:center; gap:16px; text-align:center; background:#0b0d12; font:16px sans-serif; }
+      #boot-notice[hidden] { display:none; }
+      #boot-notice button { padding:12px; font:inherit; cursor:pointer; }
+    </style>
+    <script type="module" crossorigin src="./assets/index-6UJEdtuk.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CP-Qu5Fx.css">
+  </head>
+  <body>
+    <main id="app-shell" aria-label="恶魔锻造炉">
+      <div id="game-root"></div>
+      <section id="boot-notice" role="status" aria-live="polite">
+        <strong>恶魔锻造炉</strong>
+        <span>正在下载启动程序，首次打开可能稍慢…</span>
+        <button type="button" onclick="location.reload()">重新加载</button>
+      </section>
+      <noscript>请启用 JavaScript 后重新打开游戏。</noscript>
+    </main>
+  <aside id="play-budget" style="position:fixed;z-index:90;right:10px;top:max(10px,env(safe-area-inset-top));padding:8px 12px;border-radius:9px;background:#171015e8;color:#ffcf81;font:14px sans-serif" role="status">正在读取试玩次数…</aside>
+<script type="module">
+const badge = document.getElementById('play-budget');
+const token = new URLSearchParams(location.hash.slice(1)).get('play');
+if (!token || !/^[a-f0-9]{64}$/.test(token)) badge.textContent = '需要私人试玩链接';
+else {
+  const config = await fetch('./runtime-config.json', {cache:'no-store'}).then(r => r.json()).catch(() => null);
+  async function refresh() {
+    if (!config?.apiBase) { badge.textContent = '试玩入口暂不可用'; return; }
+    try {
+      const r = await fetch(new URL('/status', config.apiBase), {cache:'no-store',credentials:'omit',
+        headers:{authorization:'Bearer ' + token}});
+      const s = await r.json();
+      badge.textContent = r.ok
+        ? (s.stopped ? '试玩暂时停止' : '剩余 ' + s.remainingCalls + ' 次愿望生成')
+        : '私人试玩链接不可用';
+    } catch { badge.textContent = '连接暂不可用'; }
+  }
+  await refresh();
+  document.addEventListener('visibilitychange', () => { if (!document.hidden) void refresh(); });
+  document.addEventListener('click', event => {
+    if (event.target?.closest?.('[data-testid="wish-submit"]'))
+      setTimeout(() => { void refresh(); }, 28000);
+  });
+}
+</script>
+  </body>
+</html>
