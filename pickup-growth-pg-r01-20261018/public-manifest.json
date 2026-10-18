@@ -1,0 +1,100 @@
+{
+  "candidate": "PG-R01-PHONE-STATIC-v2",
+  "version": "pickup-growth-pg-r01-20261018",
+  "sourceCategory": "ORIGINAL_OFFLINE_CANDIDATE",
+  "sourceZipSha256": "0D94BDCCE9172B17C2AC1CAFC3A13977306D60DC72EF28E09BDADAAD054F973A",
+  "algorithm": "SHA256",
+  "selfExcluded": true,
+  "files": [
+    {
+      "path": "config.mjs",
+      "bytes": 1466,
+      "sha256": "7153C3D0374D06F3E3A45951F54EA96A75A2FFE2C14034111E2AB233CB0B82B8"
+    },
+    {
+      "path": "core.mjs",
+      "bytes": 9829,
+      "sha256": "D74804475BEAACC548B5C24F5501BD0230A13229F80097C3332E111D4D0D4EF3"
+    },
+    {
+      "path": "encounter.mjs",
+      "bytes": 3017,
+      "sha256": "F014FB93CB5BE60A76F8E521B4F5F9F9565BBD935008A29C6CAFC0A7DD819262"
+    },
+    {
+      "path": "growth.mjs",
+      "bytes": 6111,
+      "sha256": "62C9099911F2BEC1C4303EF5D841B28DFB99D582A113BB919E518CCFE7B8A1DC"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3375,
+      "sha256": "855C22774059DC10E019AB43CBF83C6E2FC21EFAE3754A5DC4FDA3BBA47EFE48"
+    },
+    {
+      "path": "projectile.mjs",
+      "bytes": 3036,
+      "sha256": "A7761A769C8A550EE6741BFB7778A83C651AD0E9B391952517ACB8DC6ABFB76E"
+    },
+    {
+      "path": "README.txt",
+      "bytes": 1207,
+      "sha256": "56E26EB92B955825BAE5E62A617ACD78038E9F7FC18A61BC2E699BE823D72B6B"
+    },
+    {
+      "path": "style.css",
+      "bytes": 8978,
+      "sha256": "85BDEE5C7A739281CE76AB46D95B95E01D1A3E1F21F87DCB38A37B0056DF5E08"
+    },
+    {
+      "path": "ui.mjs",
+      "bytes": 5078,
+      "sha256": "98E7685A48E1AC008E4015CB46BE5714541BB7FE2A52067F945ECD55409A4C16"
+    },
+    {
+      "path": "vendor-js/constants.js",
+      "bytes": 394,
+      "sha256": "46007CE430A18021E8C31FDB7926701CCF266C5DB95114AEAC0D16F79A6AFBB3"
+    },
+    {
+      "path": "vendor-js/diversity/config.js",
+      "bytes": 5465,
+      "sha256": "D3DA77EEAE0588876A9C0F4DDA85F820AC310D6353EEAA5D48FDE2488E7CB9D0"
+    },
+    {
+      "path": "vendor-js/diversity/enemies.js",
+      "bytes": 3854,
+      "sha256": "AD7683FB5718E0563213DDC07BCEF17B3099A93674AE4346231A3FD87F86DC4D"
+    },
+    {
+      "path": "vendor-js/diversity/weapon-feel.js",
+      "bytes": 12708,
+      "sha256": "2B05764CD2534EBEDB90DABAFD5D0FC785D3E589F3B0C559B5EDCD6DA2919742"
+    },
+    {
+      "path": "vendor-js/math.js",
+      "bytes": 1670,
+      "sha256": "9E58B718527904C61E279170344C00BD34FE5F27FF0CD5E11D3AC6950040212E"
+    },
+    {
+      "path": "vendor-js/weapons/aimed-projectile.js",
+      "bytes": 5226,
+      "sha256": "4C426EA1528CA294F403347DB4E8EA10DEA278346D012B3157B5D13F0E157BB5"
+    },
+    {
+      "path": "vendor-js/weapons/heavy-impact.js",
+      "bytes": 1887,
+      "sha256": "6CCED7BE9BD82FA388EE7F5A76EFA2CC6B9313D5E108562E16C6A2BF88E80E35"
+    },
+    {
+      "path": "vendor-js/weapons/spell-carrier.js",
+      "bytes": 2320,
+      "sha256": "61928A81630ECD540E18FC272DAEC08421C69B2614C12F93775B8270BBFE4FE5"
+    },
+    {
+      "path": "view.mjs",
+      "bytes": 13543,
+      "sha256": "5A56DCC0E27AC492B5058C28DCC991CD384908B558BB2AE4114D2147756828E8"
+    }
+  ]
+}

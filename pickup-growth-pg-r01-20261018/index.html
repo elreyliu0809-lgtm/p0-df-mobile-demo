@@ -1,0 +1,15 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>恶魔熔炉 · 锻火试炼</title><link rel="stylesheet" href="style.css"></head><body>
+<main id="app">
+ <section id="prep" class="screen"><header class="mast"><span class="brand">DEMON FORGE</span><span class="edition">拾取成长 PG-R01 · 手机网页</span></header>
+  <div class="intro"><div class="forge-mark" aria-hidden="true">✧</div><p class="eyebrow">移动拾取 · 局内升级 · 多能力叠加</p><h1>拾火成器</h1><p class="lede">击杀留下余辉，走近才有成长。<br>把新的力量，叠加进同一场战斗。</p></div>
+  <div class="section-label"><span>选择主武器</span><small>开始即显式装备，本局保持不变</small></div><div id="weapons" role="group" aria-label="选择主武器"></div>
+  <div class="launch"><label>固定种子 <input id="seed" type="number" min="1" max="2147483647" value="41018" aria-label="固定种子"></label><button id="start" class="primary">装备并进入试炼 <span>→</span></button></div>
+  <p class="help">电脑：WASD / 方向键移动，空格暂停。触屏：在场地拖动。自动攻击，无额外技能按钮。</p>
+  <details class="details"><summary>候选范围与对照开关</summary><p>原创离线参数；复用 DF 三主几何和三敌行为源码。尚未接入正式 H5 / AI 愿望流程。模型调用 0。来源候选已完成本地同包独立复测；实体手机与人类试玩接受另行记录。</p><label><input type="checkbox" id="rewards" checked> 拾取成长</label><label><input type="checkbox" id="boss" checked> 原创 Boss</label><p>同种子可对比奖励路线；关闭项只用于作者归因，不能当完整局验收。</p><a href="README.txt" target="_blank">交付说明</a></details>
+ </section>
+ <section id="play" class="screen" hidden><header class="hud"><div><span class="brand">锻火试炼</span><b id="stageName">聚压试场</b></div><div class="hud-actions"><button id="sound" aria-label="音效" aria-pressed="false">静音</button><button id="pause" aria-label="暂停">Ⅱ</button></div></header>
+ <div class="status-strip"><div id="hearts" aria-label="生命"></div><span id="build"></span><span id="clock"></span></div><div id="growthHud" class="growth-hud"><b id="level">LV.1</b><progress id="xp" max="4" value="0"></progress><span id="xpText">余辉 0/4</span><span id="ground">地面 0</span></div><div class="route"><span id="route1">Ⅰ 聚压</span><i></i><span id="route2">Ⅱ 截路</span><i></i><span id="route3">Ⅲ 守门者</span></div>
+ <div id="arena"><canvas id="canvas" aria-label="试炼场地，拖动移动角色"></canvas><div id="bossHud" hidden><div><b>熔炉守门者</b><span id="bossPhase"></span></div><progress id="bossHealth" max="90" value="90"></progress></div><div id="hint" class="hint"></div><div id="joystick" hidden><i></i></div><div class="arena-caption">拖动移动 · 自动攻击</div></div>
+ <footer class="combat-footer"><span id="weaponLabel"></span><span id="counter"></span></footer></section>
+ <div id="modal" class="modal" hidden><section id="panel" class="panel" role="dialog" aria-modal="true" aria-label="试炼面板" tabindex="-1"></section></div>
+</main><script type="module" src="view.mjs"></script></body></html>
