@@ -1,0 +1,122 @@
+{
+  "candidate_id": "DF_PG_FORMAL_R01",
+  "art_gate": "PENDING_HUMAN_REVIEW",
+  "art_contract_sha256": "AA7C85476277BF3EC92DFA929D8CA84167BF218E8C693276BF1681DA6715BC6E",
+  "held_candidate_contract_sha256": "C55B013A44EC82F6D23D41F270AC7C21175F54A86CEE7971BE781F350D2D88F6",
+  "entries": [
+    {
+      "role": "XP_RESOURCE",
+      "url": "/assets/pg-formal-r01/xp-resource.png",
+      "sha256": "BAE09601341C30268CA89999C54CEF67944DA88C3AB92A4B0962A6A0D9AC17F4",
+      "size_bytes": 15813,
+      "width": 128,
+      "height": 128,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "forward": [
+        1,
+        0
+      ],
+      "source_sha256": "79818406CF8FEDBD8685B5A2E4B96E6E0DD8C1C12892519D81CECFA6829192DA",
+      "receipt_sha256": "EACE86C0BD4E72AF0F9B8EC151E880D09C1861825C687CF3424BE913C00B4BAB",
+      "status": "ART_REVIEWED_CANDIDATE"
+    },
+    {
+      "role": "PG_BOSS",
+      "url": "/assets/pg-formal-r01/pg-boss.png",
+      "sha256": "F02E17A7E665C9C81572E76F04662B37C4E5AF1D55EDF89733CAABBAB29D7798",
+      "size_bytes": 26414,
+      "width": 128,
+      "height": 128,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "forward": [
+        0,
+        1
+      ],
+      "source_sha256": "53F2BD2815B1440BC37045B665870CA32D59FF5BCDBF3B7E4830121F53334F76",
+      "receipt_sha256": "BEB99F33BB94DBA6430BC4D832AC84226163473944DD0E4D23ACF6300730CB46",
+      "status": "ART_REVIEWED_CANDIDATE"
+    },
+    {
+      "role": "PG_FANG",
+      "url": "/assets/pg-formal-r01/pg-fang.png",
+      "sha256": "6443788DB684AF2D42A4DF9D0C3682DD2B1503D27B5843913AE7066D33AEE6DB",
+      "size_bytes": 10326,
+      "width": 128,
+      "height": 128,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "forward": [
+        0.7071,
+        -0.7071
+      ],
+      "source_sha256": "CD56230CF9BB3CD2229D3D37D6B179982AA4AEAA3C3D15028F3A4E07847246B7",
+      "receipt_sha256": "4080B05A006D95D8B44A13BA6BEDBC8569187A645E36E92199243C91679F4249",
+      "status": "ART_REVIEWED_CANDIDATE"
+    },
+    {
+      "role": "PG_EMBER",
+      "url": "/assets/pg-formal-r01/pg-ember.png",
+      "sha256": "537BE6821684E2E8BEFD270B36924C08FF154F3B3F2B6324CAD435FEF6E8149D",
+      "size_bytes": 18069,
+      "width": 128,
+      "height": 128,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "forward": [
+        0.7071,
+        -0.7071
+      ],
+      "source_sha256": "45FE1F32CA73236A07FF2AA72B03D8C89B7F0A6A58288AA2B3C060CA1C0CD600",
+      "receipt_sha256": "9E0A0FC06D16FD47C992E030CCD3C6974A353AC51229E3D2154C7628F8B2ACDA",
+      "status": "ART_REVIEWED_CANDIDATE"
+    },
+    {
+      "role": "PLAYER",
+      "url": "/assets/pg-formal-r01/player.png",
+      "sha256": "70177A3E554AB53DB32E3FC468C7D9CB4BCEB0A049DB9977FAB6E406089DAF7D",
+      "size_bytes": 10318,
+      "width": 96,
+      "height": 96,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "forward": [
+        1,
+        0
+      ],
+      "source_sha256": "70177A3E554AB53DB32E3FC468C7D9CB4BCEB0A049DB9977FAB6E406089DAF7D",
+      "receipt_sha256": "F8E5DFC47FB26E684D253747979644776352907ECCD4A4B988BD10F84669D58C",
+      "status": "REUSE_CANDIDATE"
+    },
+    {
+      "role": "GROUND",
+      "url": "/assets/pg-formal-r01/ground.png",
+      "sha256": "834D6FF6EBD978E6564345C63A294743BB4AF6AC517559EAF577C956E63DA9CF",
+      "size_bytes": 1568952,
+      "width": 1254,
+      "height": 1254,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "forward": [
+        1,
+        0
+      ],
+      "source_sha256": "834D6FF6EBD978E6564345C63A294743BB4AF6AC517559EAF577C956E63DA9CF",
+      "receipt_sha256": "F8E5DFC47FB26E684D253747979644776352907ECCD4A4B988BD10F84669D58C",
+      "status": "REUSE_CANDIDATE"
+    }
+  ]
+}
